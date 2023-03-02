@@ -6,6 +6,10 @@ public class Mushroom extends Item {
 
     Color mushroomColor;
 
+    public Mushroom(String name) {
+        this.setName(name);
+    }
+
     protected String color;
 
     public void setColor(Color c) {
