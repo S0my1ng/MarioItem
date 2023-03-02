@@ -10,6 +10,8 @@ public class Mushroom extends Item {
         this.setName(name);
     }
 
+    // eieieiei
+
     protected String color;
 
     public void setColor(Color c) {
